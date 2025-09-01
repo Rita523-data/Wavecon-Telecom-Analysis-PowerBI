@@ -7,11 +7,11 @@ The Wavecon Telecom Churn Analysis project focuses on understanding the reasons 
 
 # Interactive Dashboard link :
 
-[Click here to View]()
+[Click here to View](https://app.powerbi.com/view?r=eyJrIjoiM2RiMGYwZGMtMmYwYy00NzZlLTljM2YtNTUyNzg1MDQ2ZTI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Presentation LInk : 
 
-[Click here to View]()
+[Click here to View](https://www.linkedin.com/posts/rita-nayak-74a055378_dataanalytics-codebasicsvirtualinternship-activity-7366819532893532161-ynQg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF1EeuoB8Hpx6OXD_9QB68HmZa7gvbjLGJA)
 
 # Table Of Contents 
 
